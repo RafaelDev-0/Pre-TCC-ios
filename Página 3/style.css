@@ -26,7 +26,7 @@ body {
     background-color: black;
     color: blanchedalmond;
     padding: 25px;
-    width: 25%;
+    width: 15%;
 }
 
 /* Estilo para o texto */
@@ -34,7 +34,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 40px;
     width: 75%;
     font-weight: 600;
 }
