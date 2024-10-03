@@ -58,8 +58,8 @@ body {
     }
     .member img {
         width: 100px;
-
     }
+
 } /* <-- Correção: Fechar chave aqui */
 
 /* Responsividade para o iframe */
@@ -163,6 +163,7 @@ a{
     margin: 10px;
     background-color: burlywood;
     border-radius: 15px;
+    
 }
 
 .member img {
