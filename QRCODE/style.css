@@ -14,7 +14,7 @@ h1{
     width: 35%;
     border-radius: 20px;
 }
-@media screen and only(max-width: 768px) {
+@media screen and (max-width: 768px){
     .imagem{
         width: 100%;
     }
