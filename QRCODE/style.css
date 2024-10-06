@@ -11,8 +11,13 @@ h1{
     justify-content: center;
 }
 .imagem img{
-    width: 600px;
+    width: 35%;
     border-radius: 20px;
+}
+@media screen and only(max-width: 768px) {
+    .imagem{
+        width: 100%;
+    }
 }
 
     
